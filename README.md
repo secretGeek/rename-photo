@@ -1,11 +1,13 @@
 # rename-photo
 A script for renaming photos in a sortable way (using EXIF data and some handy parameters) so you can combine all of your holiday snaps in one folder even though they were taken by 5 different devices.
 
-To use:
+## Lengthy article:
 
-dot source the file `RenamePhoto.ps1`
+* [Your photos are a mess! Maybe this PowerShell script can help](http://secretgeek.net/renamephoto)
 
-i.e. run this command from powershell: 
+## To use:
+
+dot source the file `RenamePhoto.ps1`. That is, run this command from powershell: 
 
     . .\RenamePhoto.ps1
   
